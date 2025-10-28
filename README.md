@@ -1,10 +1,10 @@
 
 
-\# Desafio AWS DIO: CloudFormation
+# Desafio AWS DIO: CloudFormation
 
 
 
-\## Sobre CloudFormation
+## Sobre CloudFormation
 
 
 
@@ -16,11 +16,11 @@ Nesse template, conhecido como stack ou pilha (em português), vários recursos 
 
 
 
-\## 🙂Meu projeto com a CloudFormation
+## 🙂Meu projeto com a CloudFormation
 
 
 
-\### Descrição do projeto
+### Descrição do projeto
 
 
 
